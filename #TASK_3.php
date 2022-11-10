@@ -1,7 +1,7 @@
 <?php
     echo date(
         "l, d-M-Y"
-        time () =
+        time () +
             60 * 60 * 60 * 24 * 1000
     );
 ?>
